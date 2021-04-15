@@ -8,7 +8,7 @@
             <objectView class="tesla.scada2.model.objects.StraightPipeView" name="Straight" posx="566.0" posy="662.0" width="58.0" height="61.0" angle="90" lock="false" fillcolor="0x808080ff" type3d="0">
                <scripts/>
             </objectView>
-            <objectView class="tesla.scada2.model.objects.CheckListView" name="Check list1" posx="1374.0" posy="470.0" width="133.0" height="202.0" angle="0" lock="false" color="0x333333ff" fillcolor="0xd3d3d3ff" type3d="0" linewidth="0">
+            <objectView class="tesla.scada2.model.objects.CheckListView" name="Check list1" posx="1374.0" posy="730.0" width="133.0" height="202.0" angle="0" lock="false" color="0x333333ff" fillcolor="0xd3d3d3ff" type3d="0" linewidth="0">
                <scripts/>
                <ranges>
                   <tagTextValueRange tagname="" value="1.0" text="P" uncheckvalue="0.0"/>
@@ -132,7 +132,7 @@
                </property>
                <scripts/>
             </objectView>
-            <objectView class="tesla.scada2.model.objects.SliderAppleView" name="Apple slider" posx="1484.0" posy="485.0" width="123.0" height="172.0" angle="180" lock="false" color="0x1a1a1aff" fillcolor="0x990000ff" type3d="0">
+            <objectView class="tesla.scada2.model.objects.SliderAppleView" name="Apple slider" posx="1484.0" posy="745.0" width="123.0" height="172.0" angle="180" lock="false" color="0x1a1a1aff" fillcolor="0x990000ff" type3d="0">
                <scripts/>
             </objectView>
             <objectView class="tesla.scada2.model.objects.BorderView" name="Border" posx="573.0" posy="154.0" width="233.0" height="307.0" angle="0" lock="false" color="0x000000ff" linewidth="2" fill="true" fillcolor="0x000000ff" inner="true">
